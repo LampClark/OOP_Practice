@@ -1,3 +1,5 @@
+# Develop a class Circle with attributes radius and methods to calculate the area and circumference.
+
 require 'colorize'
 
 class Circle
